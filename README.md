@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lazy
-- 🌱 I’m currently learning back-end development
+
 
 
 <!---
